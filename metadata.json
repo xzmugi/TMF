@@ -1,0 +1,6 @@
+{
+  "name": "Boardroom Royale: Executive Showdown",
+  "description": "High-stakes 2D pixel-art Battle Royale where corporate titans battle to be the sole surviving CEO as the downsizing storm closes in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
